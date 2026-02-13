@@ -1,6 +1,7 @@
 Introducing CasinoTweaks a completely new type of DonutSMP mod!
 This mod is designed for players who want full control over in‑game gambling systems like Paper Game, 50/50, and Roulette.
 Built for the newest versions and fully compatible with the most popular launchers.
+
 🎰 Main Features:
 • Adjustable outcomes for Paper Game
 • Custom 50/50 logic
